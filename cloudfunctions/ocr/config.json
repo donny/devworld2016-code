@@ -1,0 +1,8 @@
+{
+  "TRANSLATE_API_KEY": "njIKD1BjOidAKzziM",
+  "RESULT_TOPIC": "result-topic",
+  "RESULT_BUCKET": "text-bucket",
+  "TRANSLATE_TOPIC": "translate-topic",
+  "TRANSLATE": true,
+  "TO_LANG": ["en"]
+}

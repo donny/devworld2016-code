@@ -1,0 +1,8 @@
+{
+  "name": "lambda",
+  "version": "0.1.0",
+  "dependencies": {
+    "request": "^2.74.0",
+    "twilio": "^2.9.0"
+  }
+}

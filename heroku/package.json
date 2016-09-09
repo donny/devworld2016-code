@@ -1,0 +1,13 @@
+{
+  "name": "rediscloud",
+  "version": "0.0.0",
+  "description": "Redis Cloud",
+  "main": "web.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "ejs": "^1.0.0",
+    "express": "^4.8.3",
+    "logfmt": "^1.1.2",
+    "redis": "^0.12.1"
+  }
+}
